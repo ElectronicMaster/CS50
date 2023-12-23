@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "string": "c",
-        "typeinfo": "c"
+        "typeinfo": "c",
+        "array": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "string_view": "c"
     }
 }
